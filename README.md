@@ -7,6 +7,8 @@
 ## Overview
 I am a Software Developer with a Bachelor's degree in IT and hands-on experience in software development. Eager to apply my skills and passion for technology to real-world projects, I possess strong problem-solving abilities and a dedication to continuous learning.
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=layanjarrar&label=Profile%20views&color=0e75b6&style=plastic" alt="layanjarrar" /> </p>
+
 ## Work Experience
 ### Full Stack Asp.net Core & Angular At UNDP (United Nations Development Programme) ( 2024 - currently working )
 #### Mezan 3 support center
