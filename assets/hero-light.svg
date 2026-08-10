@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="404" viewBox="0 0 1000 404" fill="none" role="img" aria-label="Tamer Mansour — Full Stack Software Engineer and AI Engineer">
+<title>Tamer Mansour — Full Stack Software Engineer and AI Engineer</title>
+<style>
+.s{font-family:ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+text{white-space:pre}
+</style>
+<defs>
+<clipPath id="clip-hero"><rect x="1" y="1" width="998" height="402" rx="22"/></clipPath>
+<linearGradient id="bgg-hero" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#EEF5FA"/>
+</linearGradient>
+<pattern id="dots-hero" width="26" height="26" patternUnits="userSpaceOnUse">
+  <circle cx="1.6" cy="1.6" r="1.1" fill="#C4DCEC"/>
+</pattern>
+<filter id="blur-hero" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="72"/></filter>
+<radialGradient id="core-hero">
+  <stop offset="0" stop-color="#FFFFFF" stop-opacity=".95"/>
+  <stop offset=".35" stop-color="#0E7490"/>
+  <stop offset="1" stop-color="#0B6E82" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="halo-hero">
+  <stop offset="0" stop-color="#0B6E82" stop-opacity=".55"/>
+  <stop offset="1" stop-color="#0B6E82" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="ring-hero" gradientUnits="userSpaceOnUse" x1="22" y1="140" x2="258" y2="140">
+  <stop offset="0" stop-color="#0B6E82" stop-opacity="0"/>
+  <stop offset=".5" stop-color="#0E7490" stop-opacity=".95"/>
+  <stop offset="1" stop-color="#6D28D9" stop-opacity="0"/>
+</linearGradient>
+<filter id="soft-hero" x="-70%" y="-70%" width="240%" height="240%">
+  <feGaussianBlur stdDeviation="3.2" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<path id="orb-hero" d="M22,140 a118,45 0 1,0 236,0 a118,45 0 1,0 -236,0"/>
+<clipPath id="tw0"><rect x="54" y="230" width="0" height="26">
+    <animate attributeName="width" values="0;0;449.4;449.4;0;0" keyTimes="0;0.004;0.06;0.2;0.23;1" dur="18s" begin="0s" repeatCount="indefinite"/>
+  </rect></clipPath>
+<clipPath id="tw1"><rect x="54" y="230" width="0" height="26">
+    <animate attributeName="width" values="0;0;430.8;430.8;0;0" keyTimes="0;0.004;0.06;0.2;0.23;1" dur="18s" begin="4.5s" repeatCount="indefinite"/>
+  </rect></clipPath>
+<clipPath id="tw2"><rect x="54" y="230" width="0" height="26">
+    <animate attributeName="width" values="0;0;412.2;412.2;0;0" keyTimes="0;0.004;0.06;0.2;0.23;1" dur="18s" begin="9s" repeatCount="indefinite"/>
+  </rect></clipPath>
+<clipPath id="tw3"><rect x="54" y="230" width="0" height="26">
+    <animate attributeName="width" values="0;0;440.1;440.1;0;0" keyTimes="0;0.004;0.06;0.2;0.23;1" dur="18s" begin="13.5s" repeatCount="indefinite"/>
+  </rect></clipPath>
+<linearGradient id="nameG" gradientUnits="userSpaceOnUse" x1="54" y1="0" x2="426.06" y2="0" spreadMethod="reflect">
+  <stop offset="0" stop-color="#0B6E82"/><stop offset=".4" stop-color="#0E7490"/>
+  <stop offset=".72" stop-color="#6D28D9"/><stop offset="1" stop-color="#0B6E82"/>
+  <animateTransform attributeName="gradientTransform" type="translate" values="0 0;372.06 0;0 0" dur="9s" repeatCount="indefinite"/>
+</linearGradient>
+</defs>
+<g clip-path="url(#clip-hero)">
+  <rect x="1" y="1" width="998" height="402" rx="22" fill="url(#bgg-hero)"/>
+  <g filter="url(#blur-hero)" opacity="0.42">
+    <circle cx="120" cy="-40" r="200" fill="#8FD3EE">
+      <animate attributeName="cy" values="-40;20;-40" dur="24s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="720" cy="444" r="180" fill="#7BD8E8">
+      <animate attributeName="cx" values="720;550;720" dur="31s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="950" cy="80.80000000000001" r="150" fill="#C3B4F7" opacity=".8">
+      <animate attributeName="cy" values="80.80000000000001;242.39999999999998;80.80000000000001" dur="37s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <rect x="1" y="1" width="998" height="402" rx="22" fill="url(#dots-hero)" opacity="0.9"/>
+</g>
+<rect x="1" y="1" width="998" height="402" rx="22" fill="none" stroke="#C4DCEC" stroke-width="1.2"/>
+<g transform="translate(656 58) scale(1.03)"><g>
+  <circle cx="140" cy="140" r="132" stroke="#C4DCEC" stroke-width="1.1" stroke-dasharray="2 12">
+    <animateTransform attributeName="transform" type="rotate" from="0 140 140" to="360 140 140" dur="64s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="140" cy="140" r="132" stroke="#0B6E82" stroke-width="1.6" stroke-linecap="round" stroke-dasharray="46 783" opacity=".9">
+    <animateTransform attributeName="transform" type="rotate" from="0 140 140" to="360 140 140" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="140" cy="140" r="72" fill="url(#halo-hero)">
+    <animate attributeName="r" values="62;86;62" dur="5.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".2;.45;.2" dur="5.6s" repeatCount="indefinite"/>
+  </circle>
+  <g filter="url(#soft-hero)">
+    <animateTransform attributeName="transform" type="rotate" from="0 140 140" to="360 140 140" dur="46s" repeatCount="indefinite"/>
+    <g transform="rotate(0 140 140)">
+    <use xlink:href="#orb-hero" href="#orb-hero" stroke="url(#ring-hero)" stroke-width="1.5"/>
+    <circle r="4.2" fill="#0E7490">
+      <animateMotion dur="6.5s" begin="0s" repeatCount="indefinite">
+        <mpath xlink:href="#orb-hero" href="#orb-hero"/>
+      </animateMotion>
+      <animate attributeName="r" values="3;5.4;3" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+    <g transform="rotate(60 140 140)">
+    <use xlink:href="#orb-hero" href="#orb-hero" stroke="url(#ring-hero)" stroke-width="1.5"/>
+    <circle r="4.2" fill="#6D28D9">
+      <animateMotion dur="8.2s" begin="-2.4s" repeatCount="indefinite">
+        <mpath xlink:href="#orb-hero" href="#orb-hero"/>
+      </animateMotion>
+      <animate attributeName="r" values="3;5.4;3" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+    <g transform="rotate(120 140 140)">
+    <use xlink:href="#orb-hero" href="#orb-hero" stroke="url(#ring-hero)" stroke-width="1.5"/>
+    <circle r="4.2" fill="#0B6E82">
+      <animateMotion dur="7.3s" begin="-4.9s" repeatCount="indefinite">
+        <mpath xlink:href="#orb-hero" href="#orb-hero"/>
+      </animateMotion>
+      <animate attributeName="r" values="3;5.4;3" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  </g>
+  <g stroke="#0B6E82" stroke-width="1.1" stroke-linecap="round" opacity=".6">
+    <path d="M140 140 L206 96"><animate attributeName="opacity" values=".18;.9;.18" dur="3.1s" begin="0s" repeatCount="indefinite"/></path>
+    <path d="M140 140 L74 104"><animate attributeName="opacity" values=".18;.9;.18" dur="3.8s" begin="-1s" repeatCount="indefinite"/></path>
+    <path d="M140 140 L96 200"><animate attributeName="opacity" values=".18;.9;.18" dur="4.4s" begin="-2s" repeatCount="indefinite"/></path>
+    <path d="M140 140 L196 192"><animate attributeName="opacity" values=".18;.9;.18" dur="3.4s" begin="-2.7s" repeatCount="indefinite"/></path>
+    <path d="M140 140 L140 62"><animate attributeName="opacity" values=".18;.9;.18" dur="4.9s" begin="-3.4s" repeatCount="indefinite"/></path>
+  </g>
+  <g fill="#0E7490">
+    <circle cx="206" cy="96" r="3.4"><animate attributeName="r" values="2.3;4.6;2.3" dur="3.1s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="74" cy="104" r="3.4"><animate attributeName="r" values="2.3;4.6;2.3" dur="3.8s" begin="-1s" repeatCount="indefinite"/></circle>
+    <circle cx="96" cy="200" r="3.4"><animate attributeName="r" values="2.3;4.6;2.3" dur="4.4s" begin="-2s" repeatCount="indefinite"/></circle>
+    <circle cx="196" cy="192" r="3.4"><animate attributeName="r" values="2.3;4.6;2.3" dur="3.4s" begin="-2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="140" cy="62" r="3.4"><animate attributeName="r" values="2.3;4.6;2.3" dur="4.9s" begin="-3.4s" repeatCount="indefinite"/></circle>
+  </g>
+  <g filter="url(#soft-hero)">
+    <path d="M166,140 L153,162.5 L127,162.5 L114,140 L127,117.5 L153,117.5 Z" stroke="#0E7490" stroke-width="1.8" fill="#0B6E82" fill-opacity=".14">
+      <animateTransform attributeName="transform" type="rotate" from="0 140 140" to="360 140 140" dur="24s" repeatCount="indefinite"/>
+    </path>
+    <path d="M158,140 L149,155.5 L131,155.5 L122,140 L131,124.5 L149,124.5 Z" stroke="#6D28D9" stroke-width="1.2" stroke-opacity=".75" fill="none">
+      <animateTransform attributeName="transform" type="rotate" from="360 140 140" to="0 140 140" dur="16s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="140" cy="140" r="11" fill="url(#core-hero)">
+      <animate attributeName="r" values="9.5;13;9.5" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <circle cx="140" cy="140" r="14" stroke="#0B6E82" fill="none" stroke-width="1.4">
+    <animate attributeName="r" values="14;122" dur="4.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".65;0" dur="4.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="140" cy="140" r="14" stroke="#6D28D9" fill="none" stroke-width="1.2">
+    <animate attributeName="r" values="14;122" dur="4.4s" begin="-2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".55;0" dur="4.4s" begin="-2.2s" repeatCount="indefinite"/>
+  </circle>
+</g></g>
+<circle cx="58" cy="70" r="4" fill="#0B6E82">
+  <animate attributeName="opacity" values="1;.25;1" dur="2.4s" repeatCount="indefinite"/>
+</circle>
+<text x="72" y="74" class="m" font-size="11" fill="#0B6E82" letter-spacing="2.1">RAMALLAH · PALESTINE  —  OPEN TO COLLABORATION</text>
+<text x="54" y="144" class="s" font-size="54" fill="url(#nameG)" font-weight="700" letter-spacing="-1.4">Tamer Mansour</text>
+<text x="54" y="176" class="s" font-size="24" fill="#0E7490" font-weight="600" opacity="0.92">تامر منصور</text>
+<text x="54" y="208" class="s" font-size="18.5" fill="#28536B" font-weight="500">Full Stack Software Engineer · AI &amp; Machine Learning</text>
+<g clip-path="url(#tw0)"><text x="54" y="249" class="m" font-size="15.5" fill="#0E7490" textLength="446.4" lengthAdjust="spacing">Building Mizan 3 — Palestine's judicial platform</text></g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.004;0.23;0.23;1" dur="18s" begin="0s" repeatCount="indefinite"/>
+    <rect y="233" width="2.4" height="19" rx="1.2" fill="#0B6E82" x="54">
+      <animate attributeName="x" values="54;54;500.4;500.4;54;54" keyTimes="0;0.004;0.06;0.2;0.23;1" dur="18s" begin="0s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1.05s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+<g clip-path="url(#tw1)"><text x="54" y="249" class="m" font-size="15.5" fill="#0E7490" textLength="427.8" lengthAdjust="spacing">Leading the on-premise Core AI Platform @ UNDP</text></g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.004;0.23;0.23;1" dur="18s" begin="4.5s" repeatCount="indefinite"/>
+    <rect y="233" width="2.4" height="19" rx="1.2" fill="#0B6E82" x="54">
+      <animate attributeName="x" values="54;54;481.8;481.8;54;54" keyTimes="0;0.004;0.06;0.2;0.23;1" dur="18s" begin="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1.05s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+<g clip-path="url(#tw2)"><text x="54" y="249" class="m" font-size="15.5" fill="#0E7490" textLength="409.2" lengthAdjust="spacing">ASP.NET Core · Angular · Python · LLMs · RAG</text></g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.004;0.23;0.23;1" dur="18s" begin="9s" repeatCount="indefinite"/>
+    <rect y="233" width="2.4" height="19" rx="1.2" fill="#0B6E82" x="54">
+      <animate attributeName="x" values="54;54;463.2;463.2;54;54" keyTimes="0;0.004;0.06;0.2;0.23;1" dur="18s" begin="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1.05s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+<g clip-path="url(#tw3)"><text x="54" y="249" class="m" font-size="15.5" fill="#0E7490" textLength="437.1" lengthAdjust="spacing">Turning research-stage AI into shipped services</text></g>
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.004;0.23;0.23;1" dur="18s" begin="13.5s" repeatCount="indefinite"/>
+    <rect y="233" width="2.4" height="19" rx="1.2" fill="#0B6E82" x="54">
+      <animate attributeName="x" values="54;54;491.1;491.1;54;54" keyTimes="0;0.004;0.06;0.2;0.23;1" dur="18s" begin="13.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1.05s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <rect x="54" y="276" width="51.6" height="26" rx="13" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1"/><text x="79.8" y="293.14" class="m" font-size="11.5" fill="#0B6E82" text-anchor="middle">UNDP</text>
+  <rect x="114.6" y="276" width="72.3" height="26" rx="13" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1"/><text x="150.75" y="293.14" class="m" font-size="11.5" fill="#28536B" text-anchor="middle">Mizan 3</text>
+  <rect x="195.9" y="276" width="134.4" height="26" rx="13" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1"/><text x="263.1" y="293.14" class="m" font-size="11.5" fill="#28536B" text-anchor="middle">Core AI Platform</text>
+  <rect x="339.3" y="276" width="93" height="26" rx="13" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1"/><text x="385.8" y="293.14" class="m" font-size="11.5" fill="#28536B" text-anchor="middle">On-premise</text>
+<text x="54" y="346" class="s" font-size="12.4" fill="#54798F">Al-Quds University · dual study with AXSOS AG · exchange at Mälardalen, Sweden</text>
+</svg>

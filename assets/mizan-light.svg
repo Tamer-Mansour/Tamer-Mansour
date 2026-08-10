@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="230" viewBox="0 0 1000 230" fill="none" role="img" aria-label="Mizan 3 modules">
+<title>Mizan 3 modules</title>
+<style>
+.s{font-family:ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+text{white-space:pre}
+</style>
+<defs>
+
+</defs>
+<text x="20" y="26" class="m" font-size="11" fill="#0B6E82" letter-spacing="2">MIZAN 3 · MODULES I BUILT</text>
+<text x="980" y="26" class="m" font-size="10.5" fill="#54798F" text-anchor="end" letter-spacing="1.4">ASP.NET CORE · ANGULAR · SQL SERVER</text>
+  <g opacity="0" transform="translate(14 48)"><animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.55s" fill="freeze"/>
+    <rect x="0" y="0" width="318" height="78" rx="14" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1.1"/>
+    <circle cx="20" cy="27" r="4" fill="#0B6E82">
+      <animate attributeName="opacity" values=".45;1;.45" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="34" y="32" class="s" font-size="13.4" fill="#082031" font-weight="600">Cases</text>
+    <text x="34" y="55" class="s" font-size="10.9" fill="#54798F">Full lifecycle · courts, parties, hearings, docs</text>
+  </g>
+  <g opacity="0" transform="translate(346 48)"><animate attributeName="opacity" from="0" to="1" begin="0.19s" dur="0.55s" fill="freeze"/>
+    <rect x="0" y="0" width="318" height="78" rx="14" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1.1"/>
+    <circle cx="20" cy="27" r="4" fill="#0B6E82">
+      <animate attributeName="opacity" values=".45;1;.45" dur="2.9s" repeatCount="indefinite"/>
+    </circle>
+    <text x="34" y="32" class="s" font-size="13.4" fill="#082031" font-weight="600">Inspections</text>
+    <text x="34" y="55" class="s" font-size="10.9" fill="#54798F">Judge profiles, visits, evaluations, complaints</text>
+  </g>
+  <g opacity="0" transform="translate(678 48)"><animate attributeName="opacity" from="0" to="1" begin="0.28s" dur="0.55s" fill="freeze"/>
+    <rect x="0" y="0" width="318" height="78" rx="14" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1.1"/>
+    <circle cx="20" cy="27" r="4" fill="#0B6E82">
+      <animate attributeName="opacity" values=".45;1;.45" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="34" y="32" class="s" font-size="13.4" fill="#082031" font-weight="600">Advanced Search</text>
+    <text x="34" y="55" class="s" font-size="10.9" fill="#54798F">Multi-filter case search engine + search pages</text>
+  </g>
+  <g opacity="0" transform="translate(14 140)"><animate attributeName="opacity" from="0" to="1" begin="0.37s" dur="0.55s" fill="freeze"/>
+    <rect x="0" y="0" width="318" height="78" rx="14" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1.1"/>
+    <circle cx="20" cy="27" r="4" fill="#0B6E82">
+      <animate attributeName="opacity" values=".45;1;.45" dur="3.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="34" y="32" class="s" font-size="13.4" fill="#082031" font-weight="600">Reports</text>
+    <text x="34" y="55" class="s" font-size="10.9" fill="#54798F">CRUD components wired to DevExpress reporting</text>
+  </g>
+  <g opacity="0" transform="translate(346 140)"><animate attributeName="opacity" from="0" to="1" begin="0.46s" dur="0.55s" fill="freeze"/>
+    <rect x="0" y="0" width="318" height="78" rx="14" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1.1"/>
+    <circle cx="20" cy="27" r="4" fill="#0B6E82">
+      <animate attributeName="opacity" values=".45;1;.45" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="34" y="32" class="s" font-size="13.4" fill="#082031" font-weight="600">Settings</text>
+    <text x="34" y="55" class="s" font-size="10.9" fill="#54798F">Lookups, court setup, administrative controls</text>
+  </g>
+  <g opacity="0" transform="translate(678 140)"><animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.55s" fill="freeze"/>
+    <rect x="0" y="0" width="318" height="78" rx="14" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1.1"/>
+    <circle cx="20" cy="27" r="4" fill="#0B6E82">
+      <animate attributeName="opacity" values=".45;1;.45" dur="4.1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="34" y="32" class="s" font-size="13.4" fill="#082031" font-weight="600">Form Builder &amp; Workflow</text>
+    <text x="34" y="55" class="s" font-size="10.9" fill="#54798F">Backend and frontend foundations</text>
+  </g>
+</svg>

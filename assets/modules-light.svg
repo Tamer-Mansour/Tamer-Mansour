@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="658" viewBox="0 0 1000 658" fill="none" role="img" aria-label="Core AI Platform — eight workstreams">
+<title>Core AI Platform — eight workstreams</title>
+<style>
+.s{font-family:ui-sans-serif,system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+text{white-space:pre}
+</style>
+<defs>
+<clipPath id="cardc"><rect x="0" y="0" width="478" height="128" rx="15"/></clipPath>
+<linearGradient id="prog" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#047857"/><stop offset="1" stop-color="#0B6E82"/>
+</linearGradient>
+<linearGradient id="shim" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#0B6E82" stop-opacity="0"/>
+  <stop offset=".5" stop-color="#0B6E82" stop-opacity=".13"/>
+  <stop offset="1" stop-color="#0B6E82" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<text x="20" y="30" class="m" font-size="11" fill="#54798F" letter-spacing="1.8">8 COORDINATED WORKSTREAMS · MIZAN 3 · ON-PREMISE</text>
+<text x="980" y="30" class="m" font-size="11.5" fill="#047857" text-anchor="end" letter-spacing="1.6">3 / 8 DELIVERED</text>
+<rect x="20" y="44" width="960" height="6" rx="3" fill="#DBEAF4"/>
+<rect x="20" y="44" height="6" rx="3" fill="url(#prog)" width="0">
+  <animate attributeName="width" values="0;0;360;360" keyTimes="0;0.03;0.22;1" dur="10s" repeatCount="indefinite"/>
+</rect>
+<circle cy="47" r="4.5" fill="#0E7490" cx="20" opacity="0">
+  <animate attributeName="cx" values="20;20;380;380" keyTimes="0;0.03;0.22;1" dur="10s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;.9;.9;.35;.35" keyTimes="0;0.04;0.22;0.3;1" dur="10s" repeatCount="indefinite"/>
+</circle>
+  <g transform="translate(14 84)">
+    <rect x="0" y="0" width="478" height="128" rx="15" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1.1"/>
+    
+    <rect x="1.5" y="18" width="3.5" height="92" rx="1.75" fill="#047857" opacity=".85"/>
+    <rect x="18" y="18" width="28" height="28" rx="9" fill="#F1F8FC" stroke="#047857" stroke-width="1" stroke-opacity=".45"/>
+    <text x="32" y="37" class="m" font-size="13" fill="#047857" font-weight="700" text-anchor="middle">1</text>
+    <text x="58" y="34" class="s" font-size="15" fill="#082031" font-weight="600">OCR Microservice &amp; Document Classification</text>
+    <text x="58" y="60" class="s" font-size="12.2" fill="#54798F">Digitises incoming case documents, then auto-classifies</text>
+    <text x="58" y="78" class="s" font-size="12.2" fill="#54798F">and routes each one to the right case type.</text>
+    <rect x="58" y="92" width="90.7" height="22" rx="11" fill="#047857" stroke="#047857" stroke-width="1" fill-opacity=".12" stroke-opacity=".38"/>
+    <g transform="translate(66 96)">
+      <path d="M2.6 7.4 L5.8 10.6 L12.4 3.6" stroke="#047857" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="20" stroke-dashoffset="20">
+        <animate attributeName="stroke-dashoffset" values="20;20;0;0" keyTimes="0;0.08;0.26;1" dur="7s" begin="0s" repeatCount="indefinite"/>
+      </path></g>
+    <text x="88" y="107" class="m" font-size="10.5" fill="#047857" letter-spacing="1.1">DELIVERED</text>
+  </g>
+  <g transform="translate(508 84)">
+    <rect x="0" y="0" width="478" height="128" rx="15" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1.1"/>
+    
+    <rect x="1.5" y="18" width="3.5" height="92" rx="1.75" fill="#047857" opacity=".85"/>
+    <rect x="18" y="18" width="28" height="28" rx="9" fill="#F1F8FC" stroke="#047857" stroke-width="1" stroke-opacity=".45"/>
+    <text x="32" y="37" class="m" font-size="13" fill="#047857" font-weight="700" text-anchor="middle">2</text>
+    <text x="58" y="34" class="s" font-size="15" fill="#082031" font-weight="600">HTR Module &amp; Mixed-Layout Processor</text>
+    <text x="58" y="60" class="s" font-size="12.2" fill="#54798F">Handwritten text recognition across mixed printed and</text>
+    <text x="58" y="78" class="s" font-size="12.2" fill="#54798F">handwritten multi-column judicial records.</text>
+    <rect x="58" y="92" width="90.7" height="22" rx="11" fill="#047857" stroke="#047857" stroke-width="1" fill-opacity=".12" stroke-opacity=".38"/>
+    <g transform="translate(66 96)">
+      <path d="M2.6 7.4 L5.8 10.6 L12.4 3.6" stroke="#047857" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="20" stroke-dashoffset="20">
+        <animate attributeName="stroke-dashoffset" values="20;20;0;0" keyTimes="0;0.08;0.26;1" dur="7s" begin="0.18s" repeatCount="indefinite"/>
+      </path></g>
+    <text x="88" y="107" class="m" font-size="10.5" fill="#047857" letter-spacing="1.1">DELIVERED</text>
+  </g>
+  <g transform="translate(14 228)">
+    <rect x="0" y="0" width="478" height="128" rx="15" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1.1"/>
+    <g clip-path="url(#cardc)">
+      <rect x="-160" y="0" width="160" height="128" fill="url(#shim)">
+        <animate attributeName="x" values="-160;478;478" keyTimes="0;0.42;1" dur="5.2s" begin="0.84s" repeatCount="indefinite"/>
+      </rect></g>
+    <rect x="1.5" y="18" width="3.5" height="92" rx="1.75" fill="#B45309" opacity=".85"/>
+    <rect x="18" y="18" width="28" height="28" rx="9" fill="#F1F8FC" stroke="#B45309" stroke-width="1" stroke-opacity=".45"/>
+    <text x="32" y="37" class="m" font-size="13" fill="#B45309" font-weight="700" text-anchor="middle">3</text>
+    <text x="58" y="34" class="s" font-size="15" fill="#082031" font-weight="600">Fine-Tuned Legal LLM &amp; Vector Database</text>
+    <text x="58" y="60" class="s" font-size="12.2" fill="#54798F">Domain LLM fine-tuned on judicial corpora, backed by a</text>
+    <text x="58" y="78" class="s" font-size="12.2" fill="#54798F">vector database for semantic retrieval.</text>
+    <rect x="58" y="92" width="122.2" height="22" rx="11" fill="#B45309" stroke="#B45309" stroke-width="1" fill-opacity=".12" stroke-opacity=".38"/>
+    <circle cx="73" cy="103" r="3.4" fill="#B45309">
+      <animate attributeName="opacity" values="1;.22;1" dur="1.7s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="88" y="107" class="m" font-size="10.5" fill="#B45309" letter-spacing="1.1">IN DEVELOPMENT</text>
+  </g>
+  <g transform="translate(508 228)">
+    <rect x="0" y="0" width="478" height="128" rx="15" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1.1"/>
+    <g clip-path="url(#cardc)">
+      <rect x="-160" y="0" width="160" height="128" fill="url(#shim)">
+        <animate attributeName="x" values="-160;478;478" keyTimes="0;0.42;1" dur="5.2s" begin="1.26s" repeatCount="indefinite"/>
+      </rect></g>
+    <rect x="1.5" y="18" width="3.5" height="92" rx="1.75" fill="#B45309" opacity=".85"/>
+    <rect x="18" y="18" width="28" height="28" rx="9" fill="#F1F8FC" stroke="#B45309" stroke-width="1" stroke-opacity=".45"/>
+    <text x="32" y="37" class="m" font-size="13" fill="#B45309" font-weight="700" text-anchor="middle">4</text>
+    <text x="58" y="34" class="s" font-size="15" fill="#082031" font-weight="600">Hybrid Search, NL Query &amp; Summarization</text>
+    <text x="58" y="60" class="s" font-size="12.2" fill="#54798F">Keyword plus semantic search, natural-language querying</text>
+    <text x="58" y="78" class="s" font-size="12.2" fill="#54798F">and automatic summarisation of cases.</text>
+    <rect x="58" y="92" width="122.2" height="22" rx="11" fill="#B45309" stroke="#B45309" stroke-width="1" fill-opacity=".12" stroke-opacity=".38"/>
+    <circle cx="73" cy="103" r="3.4" fill="#B45309">
+      <animate attributeName="opacity" values="1;.22;1" dur="1.7s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="88" y="107" class="m" font-size="10.5" fill="#B45309" letter-spacing="1.1">IN DEVELOPMENT</text>
+  </g>
+  <g transform="translate(14 372)">
+    <rect x="0" y="0" width="478" height="128" rx="15" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1.1"/>
+    
+    <rect x="1.5" y="18" width="3.5" height="92" rx="1.75" fill="#047857" opacity=".85"/>
+    <rect x="18" y="18" width="28" height="28" rx="9" fill="#F1F8FC" stroke="#047857" stroke-width="1" stroke-opacity=".45"/>
+    <text x="32" y="37" class="m" font-size="13" fill="#047857" font-weight="700" text-anchor="middle">5</text>
+    <text x="58" y="34" class="s" font-size="15" fill="#082031" font-weight="600">AI Chat Assistant with RAG</text>
+    <text x="58" y="60" class="s" font-size="12.2" fill="#54798F">Retrieval-augmented chat over live case data, with</text>
+    <text x="58" y="78" class="s" font-size="12.2" fill="#54798F">grounded, source-linked answers.</text>
+    <rect x="58" y="92" width="90.7" height="22" rx="11" fill="#047857" stroke="#047857" stroke-width="1" fill-opacity=".12" stroke-opacity=".38"/>
+    <g transform="translate(66 96)">
+      <path d="M2.6 7.4 L5.8 10.6 L12.4 3.6" stroke="#047857" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="20" stroke-dashoffset="20">
+        <animate attributeName="stroke-dashoffset" values="20;20;0;0" keyTimes="0;0.08;0.26;1" dur="7s" begin="0.72s" repeatCount="indefinite"/>
+      </path></g>
+    <text x="88" y="107" class="m" font-size="10.5" fill="#047857" letter-spacing="1.1">DELIVERED</text>
+  </g>
+  <g transform="translate(508 372)">
+    <rect x="0" y="0" width="478" height="128" rx="15" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1.1"/>
+    <g clip-path="url(#cardc)">
+      <rect x="-160" y="0" width="160" height="128" fill="url(#shim)">
+        <animate attributeName="x" values="-160;478;478" keyTimes="0;0.42;1" dur="5.2s" begin="2.1s" repeatCount="indefinite"/>
+      </rect></g>
+    <rect x="1.5" y="18" width="3.5" height="92" rx="1.75" fill="#B45309" opacity=".85"/>
+    <rect x="18" y="18" width="28" height="28" rx="9" fill="#F1F8FC" stroke="#B45309" stroke-width="1" stroke-opacity=".45"/>
+    <text x="32" y="37" class="m" font-size="13" fill="#B45309" font-weight="700" text-anchor="middle">6</text>
+    <text x="58" y="34" class="s" font-size="15" fill="#082031" font-weight="600">Transcript Analysis &amp; Hearing Minutes</text>
+    <text x="58" y="60" class="s" font-size="12.2" fill="#54798F">Turns hearing transcripts into structured minutes and</text>
+    <text x="58" y="78" class="s" font-size="12.2" fill="#54798F">hearing text, historical and live.</text>
+    <rect x="58" y="92" width="122.2" height="22" rx="11" fill="#B45309" stroke="#B45309" stroke-width="1" fill-opacity=".12" stroke-opacity=".38"/>
+    <circle cx="73" cy="103" r="3.4" fill="#B45309">
+      <animate attributeName="opacity" values="1;.22;1" dur="1.7s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="88" y="107" class="m" font-size="10.5" fill="#B45309" letter-spacing="1.1">IN DEVELOPMENT</text>
+  </g>
+  <g transform="translate(14 516)">
+    <rect x="0" y="0" width="478" height="128" rx="15" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1.1"/>
+    <g clip-path="url(#cardc)">
+      <rect x="-160" y="0" width="160" height="128" fill="url(#shim)">
+        <animate attributeName="x" values="-160;478;478" keyTimes="0;0.42;1" dur="5.2s" begin="2.52s" repeatCount="indefinite"/>
+      </rect></g>
+    <rect x="1.5" y="18" width="3.5" height="92" rx="1.75" fill="#B45309" opacity=".85"/>
+    <rect x="18" y="18" width="28" height="28" rx="9" fill="#F1F8FC" stroke="#B45309" stroke-width="1" stroke-opacity=".45"/>
+    <text x="32" y="37" class="m" font-size="13" fill="#B45309" font-weight="700" text-anchor="middle">7</text>
+    <text x="58" y="34" class="s" font-size="15" fill="#082031" font-weight="600">Judgment Prediction &amp; Precedent Retrieval</text>
+    <text x="58" y="60" class="s" font-size="12.2" fill="#54798F">Outcome prediction with confidence scores, plus</text>
+    <text x="58" y="78" class="s" font-size="12.2" fill="#54798F">precedent recall for a predictive dashboard.</text>
+    <rect x="58" y="92" width="122.2" height="22" rx="11" fill="#B45309" stroke="#B45309" stroke-width="1" fill-opacity=".12" stroke-opacity=".38"/>
+    <circle cx="73" cy="103" r="3.4" fill="#B45309">
+      <animate attributeName="opacity" values="1;.22;1" dur="1.7s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="88" y="107" class="m" font-size="10.5" fill="#B45309" letter-spacing="1.1">IN DEVELOPMENT</text>
+  </g>
+  <g transform="translate(508 516)">
+    <rect x="0" y="0" width="478" height="128" rx="15" fill="#FFFFFF" stroke="#C4DCEC" stroke-width="1.1"/>
+    <g clip-path="url(#cardc)">
+      <rect x="-160" y="0" width="160" height="128" fill="url(#shim)">
+        <animate attributeName="x" values="-160;478;478" keyTimes="0;0.42;1" dur="5.2s" begin="2.94s" repeatCount="indefinite"/>
+      </rect></g>
+    <rect x="1.5" y="18" width="3.5" height="92" rx="1.75" fill="#B45309" opacity=".85"/>
+    <rect x="18" y="18" width="28" height="28" rx="9" fill="#F1F8FC" stroke="#B45309" stroke-width="1" stroke-opacity=".45"/>
+    <text x="32" y="37" class="m" font-size="13" fill="#B45309" font-weight="700" text-anchor="middle">8</text>
+    <text x="58" y="34" class="s" font-size="15" fill="#082031" font-weight="600">Full Integration &amp; Handover</text>
+    <text x="58" y="60" class="s" font-size="12.2" fill="#54798F">End-to-end integration of every AI service, plus docs,</text>
+    <text x="58" y="78" class="s" font-size="12.2" fill="#54798F">deployment and technical handover.</text>
+    <rect x="58" y="92" width="122.2" height="22" rx="11" fill="#B45309" stroke="#B45309" stroke-width="1" fill-opacity=".12" stroke-opacity=".38"/>
+    <circle cx="73" cy="103" r="3.4" fill="#B45309">
+      <animate attributeName="opacity" values="1;.22;1" dur="1.7s" begin="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="88" y="107" class="m" font-size="10.5" fill="#B45309" letter-spacing="1.1">IN DEVELOPMENT</text>
+  </g>
+</svg>
